@@ -68,5 +68,7 @@
 
 <img src="pictures/gimp-git-win10-17.jpg"  width="800">
 
+# = = = = = = [NEXT: Jekyll for Windows 10](https://rms46.github.io/webweb8/) = = = = = =
 
-# NEXT 
+
+

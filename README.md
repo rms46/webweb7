@@ -36,5 +36,37 @@
 
 <img src="pictures/gimp-git-win10-09.jpg"  width="800">
 
+## (10) = = =
+
+<img src="pictures/gimp-git-win10-10.jpg"  width="800">
+
+## (11) = = =
+
+<img src="pictures/gimp-git-win10-11.jpg"  width="800">
+
+## (12) = = =
+
+<img src="pictures/gimp-git-win10-12.jpg"  width="800">
+
+## (13) = = =
+
+<img src="pictures/gimp-git-win10-13.jpg"  width="800">
+
+## (14) = = =
+
+<img src="pictures/gimp-git-win10-14.jpg"  width="800">
+
+## (15) = = =
+
+<img src="pictures/gimp-git-win10-15.jpg"  width="800">
+
+## (16) = = =
+
+<img src="pictures/gimp-git-win10-16.jpg"  width="800">
+
+## (17) = = =
+
+<img src="pictures/gimp-git-win10-17.jpg"  width="800">
+
 
 # NEXT 
